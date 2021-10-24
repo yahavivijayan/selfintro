@@ -1,0 +1,20 @@
+h2 
+{
+color:grey
+}
+#color
+{
+    color: antiquewhite;
+    background-color:royalblue;
+}
+*{
+    font-style: italic;
+    font-family: cursive;
+}
+img{
+    border-radius: 20%;
+    width:10%;
+    height: 30%;
+    float: right;
+    margin-right: 10%;
+}
